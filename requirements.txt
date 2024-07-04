@@ -6,5 +6,5 @@ flask_wtf==1.2.1
 Werkzeug==3.0.3
 WTForms==3.1.2
 mysqlclient
-pmysql
+pymysql
 
